@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Model artifacts
+*.joblib
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
